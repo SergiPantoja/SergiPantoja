@@ -22,4 +22,5 @@ jobs:
                 USERNAME: ${{ github.repository_owner }}
                 BRANCH_NAME: main
                 THEME: "github_dark"
+                ANIMATION: "load" # none, fade / rise, draw, stagger, load, sequence, tint, rgb, rgb-soft
                 UTC_OFFSET: "-3"
