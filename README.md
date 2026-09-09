@@ -34,3 +34,13 @@
 
 - [ignoretree](https://github.com/SergiPantoja/ignoretree) - A Python package for layered, gitignore-compatible file filtering.
 - [ClassBot](https://github.com/SergiPantoja/classbot) - A learning-management platform for coursework, assignments, media, and student communication.
+
+## GitHub Stats
+
+![Profile details](https://raw.githubusercontent.com/SergiPantoja/SergiPantoja/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+
+![Repositories by language](https://raw.githubusercontent.com/SergiPantoja/SergiPantoja/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![Commit languages](https://raw.githubusercontent.com/SergiPantoja/SergiPantoja/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
+![GitHub stats](https://raw.githubusercontent.com/SergiPantoja/SergiPantoja/main/profile-summary-card-output/github_dark/3-stats.svg)
+![Productive time](https://raw.githubusercontent.com/SergiPantoja/SergiPantoja/main/profile-summary-card-output/github_dark/4-productive-time.svg)
